@@ -1,0 +1,77 @@
+# Beginner Course
+
+- [x] Course Introduction
+- [x] JavaScript Is Hard
+- [x] Don't Get Discouraged
+- [x] What Is JavaScript?
+- [x] Download Tools
+- [x] Your First JavaScript App
+- [x] Prettier
+- [x] First Variable
+- [x] Number Type
+- [ ] String Type
+- [ ] Boolean Type
+- [ ] Null And Undefined Type
+- [ ] Variable Comparison
+- [ ] Garbage Collection
+- [ ] Comments
+- [ ] Normal Functions
+- [ ] Passing Functions As Arguments
+- [ ] Arrow Functions
+- [ ] Stack Trace And Call Stack
+- [ ] Hoisting
+- [ ] Scoping
+- [ ] Closures
+- [ ] Const
+- [ ] Var
+- [ ] Type Coercion
+- [ ] == Vs ===
+- [ ] NaN
+- [ ] Arrays
+- [ ] Objects
+- [ ] Reference Vs Value
+- [ ] Array Methods
+- [ ] String Template Literals
+- [ ] New And This
+- [ ] Basic DOM
+- [ ] Async Vs Defer
+- [ ] Window
+- [ ] Document
+- [ ] Id And Class Selectors
+- [ ] Query Selectors
+- [ ] Event Listeners
+- [ ] Additional Differences Between Arrow And Normal Functions
+- [ ] Data Attributes
+- [ ] DOM Traversal
+- [ ] Simple Todo List
+- [ ] Modal Introduction
+- [ ] Modal Walkthrough
+- [ ] If
+- [ ] Ternary Operator
+- [ ] Switch Statement
+- [ ] For Loop
+- [ ] While Loop
+- [ ] Recursion
+- [ ] Short Circuit Evaluation
+- [ ] Midi Piano
+- [ ] Quiz App Introduction
+- [ ] Quiz App Walkthrough
+- [ ] Form Validation Introduction
+- [ ] Form Validation Walkthrough
+- [ ] Callbacks
+- [ ] Promises
+- [ ] Async Await
+- [ ] Fetch
+- [ ] Event Loop
+- [ ] Event Delegation
+- [ ] Browser Storage
+- [ ] Advanced Todo List
+- [ ] Expand Collapse Introduction
+- [ ] Expand Collapse Walkthrough
+- [ ] Google Maps Clone
+- [ ] ES6 Modules
+- [ ] Node Modules
+- [ ] NPM
+- [ ] Parcel
+- [ ] Date Picker
+- [ ] Shopping Cart
