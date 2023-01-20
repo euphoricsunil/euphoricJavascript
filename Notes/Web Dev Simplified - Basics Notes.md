@@ -21,10 +21,12 @@
   - `let x = 0;`
   - `const y = 0;`
 
-## Types 
+## Types in Javascript 
 - `typeof x`
   - Display the type of the variable
-- Types
-  - Number
+- **Types**
+  - **Number**
     - integers, floats
-    - 
+    - In the float arithmetics there is a chance of values not rounded as expected. Make sure to ceil, floor or round the values for managing expectations in output
+  - **String**
+    - string can be wrapped around single or double quotes
