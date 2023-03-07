@@ -30,3 +30,18 @@
     - In the float arithmetics there is a chance of values not rounded as expected. Make sure to ceil, floor or round the values for managing expectations in output
   - **String**
     - string can be wrapped around single or double quotes
+  - **Boolean Value**
+    - truth or false is returned
+- **Garbage Collection**
+  - Delete the variables from the memory to keep the resource consumption at optimum levels
+- **Comments**
+  - Self explnatory text to improve code readability
+  
+
+## Functions
+- Reusable logical statements
+- Returns value if needed 
+- Functions can ebe passed as function arguments
+  - Callbacks work on this principle
+  - Common pitfall : avoidance : Use function names without the parantheses
+- 

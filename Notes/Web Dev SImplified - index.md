@@ -9,14 +9,14 @@
 - [x] Prettier
 - [x] First Variable
 - [x] Number Type
-- [ ] String Type
-- [ ] Boolean Type
-- [ ] Null And Undefined Type
-- [ ] Variable Comparison
-- [ ] Garbage Collection
-- [ ] Comments
-- [ ] Normal Functions
-- [ ] Passing Functions As Arguments
+- [x] String Type
+- [x] Boolean Type
+- [x] Null And Undefined Type
+- [x] Variable Comparison
+- [x] Garbage Collection
+- [x] Comments
+- [x] Normal Functions
+- [x] Passing Functions As Arguments
 - [ ] Arrow Functions
 - [ ] Stack Trace And Call Stack
 - [ ] Hoisting
