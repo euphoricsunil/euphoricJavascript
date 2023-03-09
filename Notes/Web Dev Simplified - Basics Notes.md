@@ -44,4 +44,29 @@
 - Functions can ebe passed as function arguments
   - Callbacks work on this principle
   - Common pitfall : avoidance : Use function names without the parantheses
-- 
+
+## Arrow Functions
+- Concise way of writing functions without function keyword
+- Arow functions are not automatically hoisted
+
+## Hoisting
+- The function declarations are automatically hoisted to the top of the scope
+
+## Scoping
+- The value of a variable is alive only in its own scope
+- Inner scope can access the outer scope values but inter scope values needs to be passed on explicitly
+
+## Closures
+
+
+## Var
+- Do not use it
+- breaks all scoping rules of const and let
+- automatically hoisted to top as undefined
+
+
+## Type Coercion
+
+## NaN
+- Not a number
+- isNaN returns if the number is NaN

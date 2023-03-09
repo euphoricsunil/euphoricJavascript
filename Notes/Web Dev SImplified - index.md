@@ -17,16 +17,16 @@
 - [x] Comments
 - [x] Normal Functions
 - [x] Passing Functions As Arguments
-- [ ] Arrow Functions
-- [ ] Stack Trace And Call Stack
-- [ ] Hoisting
-- [ ] Scoping
-- [ ] Closures
-- [ ] Const
-- [ ] Var
-- [ ] Type Coercion
-- [ ] == Vs ===
-- [ ] NaN
+- [x] Arrow Functions
+- [x] Stack Trace And Call Stack
+- [x] Hoisting
+- [x] Scoping
+- [x] Closures
+- [x] Const
+- [x] Var
+- [x] Type Coercion
+- [x] == Vs ===
+- [x] NaN
 - [ ] Arrays
 - [ ] Objects
 - [ ] Reference Vs Value
