@@ -27,7 +27,7 @@
 - [x] Type Coercion
 - [x] == Vs ===
 - [x] NaN
-- [ ] Arrays
+- [x] Arrays
 - [ ] Objects
 - [ ] Reference Vs Value
 - [ ] Array Methods

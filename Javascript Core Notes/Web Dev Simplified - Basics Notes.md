@@ -70,3 +70,11 @@
 ## NaN
 - Not a number
 - isNaN returns if the number is NaN
+
+## Arrays
+- starts index at 0
+- .push to add an element
+- .length for size of array
+
+## Objects 
+- 
