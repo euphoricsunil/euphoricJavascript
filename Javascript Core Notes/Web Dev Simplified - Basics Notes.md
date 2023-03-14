@@ -77,4 +77,7 @@
 - .length for size of array
 
 ## Objects 
-- 
+- let details = {name:'sunil', age:31, sayHi(){return 'Hi} } 
+  - details.name
+    - sunil
+  - 
